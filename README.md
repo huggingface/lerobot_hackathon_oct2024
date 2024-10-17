@@ -58,6 +58,21 @@ Real world RL | Saturday AM | TODO | TODO
 
 </div>
 
+<table>
+  <tr style="background-color: #f2f2f2;">
+    <td>Header 1</td>
+    <td>Header 2</td>
+  </tr>
+  <tr style="background-color: #fff3ff;">
+    <td>Row 1, Column 1</td>
+    <td>Row 1, Column 2</td>
+  </tr>
+  <tr style="background-color: #f2f2f2;">
+    <td>Row 2, Column 1</td>
+    <td>Row 2, Column 2</td>
+  </tr>
+</table>
+
 ### Robot Assembly
 
 We will be assembling our robots together. Choose from any of these 5 DoF + gripper robots:
