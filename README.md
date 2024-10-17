@@ -12,6 +12,10 @@
     <p>LeRobot Hackathon • October 2024</p>
 </h1>
 
+<h2 align="center">
+    <p>(WORK IN PROGRESS)</p>
+</h2>
+
 We’re excited to hold our first Hackathon, happening on the weekend of October 26-27, both online and in-person in Toulouse, France! This document will be your central resource for everything related to the Hackathon. For any other questions please reach out to the community on the [LeRobt Discord server](https://discord.gg/8uHu9JqVnm) (see the section below on   [Communications Channels](#communication-channels) for more details).
 
 ## Venue for in-person participants
@@ -20,7 +24,7 @@ _**TODO**. Add address of the venue plus any instructions on how to find the ent
 
 ## Agenda
 
-The event will run across two days: Saturday 26 and Sunday 27 October. On each day we will get started at 08:30 CST and we'll need to finish up and vacate the premises by 17:00 (but you may have homework to do!).
+The event will run across two days: Saturday 26 and Sunday 27 October. On each day we will get started at 08:45 CST and we'll need to finish up and vacate the premises by 19:00 (but you may have homework to do!).
 
 We will run a main stream of activities and alternate streams that may run in parallel with activities from other streams. You may pick and choose according to your preferences and available resources. Unless otherwise stated, the activities are available to both in-person and online participants (the latter via live-streaming and Discord chats).
 
