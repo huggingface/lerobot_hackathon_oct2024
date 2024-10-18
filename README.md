@@ -16,7 +16,7 @@
     <p>(WORK IN PROGRESS)</p>
 </h2>
 
-We’re excited to hold our first Hackathon, happening on the weekend of October 26-27, both online and in-person in Toulouse, France! This document will be your central resource for everything related to the Hackathon. For any other questions please reach out to the community on the [LeRobot Discord server](https://discord.gg/8uHu9JqVnm) (see the section below on   [Communications Channels](#communication-channels) for more details).
+We’re excited to hold our first Hackathon, happening on the weekend of October 26-27, both online and in-person in Toulouse, France! This document will be your central resource for everything related to the Hackathon. For any other questions please reach out to the community on the [LeRobot Discord server](https://discord.gg/8uHu9JqVnm).
 
 ## Venue for in-person participants
 
