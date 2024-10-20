@@ -24,7 +24,7 @@ _**TODO**. Add address of the venue plus any instructions on how to find the ent
 
 ## Agenda
 
-The event will run across two days: Saturday 26 and Sunday 27 October. On each day we will get started at 08:45 CST and we'll need to finish up and vacate the premises by 19:00 (but you may have homework to do!).
+The event will run across two days: Saturday 26 and Sunday 27 October. On each day we will get started at 08:45 CEST and we'll need to finish up and vacate the premises by 19:00 (but you may have homework to do!).
 
 We will run a main stream of activities and alternate streams that may run in parallel with activities from other streams. You may pick and choose according to your preferences and available resources. Unless otherwise stated, the activities are available to both in-person and online participants (the latter via live-streaming and Discord chats).
 
